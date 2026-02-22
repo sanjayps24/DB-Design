@@ -1,3 +1,3 @@
 # DB-Design
 
-this is the DB design
+### This is the DataBase Design for Amazon , Youtube , Netflix and other streaming platforms.
