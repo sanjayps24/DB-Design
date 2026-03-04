@@ -16,6 +16,9 @@
 #payment modes
 #share a product link
 #upload image and find similar products
+#product recommendations
+#product search
+#product comparison
 from sqlalchemy import create_engine
 
 Base = declarative_base()
